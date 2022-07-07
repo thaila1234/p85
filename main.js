@@ -30,7 +30,7 @@ function uploadBackground() {
 
 function uploadGreenCar() {
 	//Defina a função ‘uploadGreenCar’.
-	ctx.drawImage(carImgTag, 0, 0, greencarImage.width, greencarImage.height)
+	ctx.drawImage(carImgTag, carY, carX, greencarImage.width, greencarImage.height)
 }
 
 
