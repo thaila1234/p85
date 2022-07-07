@@ -5,8 +5,8 @@ var carHeight=100;
 var backgroundImage = "parkingLot.jpg";
 var greencarImage = "car2.png";
 //Defina a posição inicial para uma imagem de carro.
-var carX=0;
-var carY=0;
+var carX=5;
+var carY=225;
 var bgImgTag;
 var carImgTag;
 canvas = document.getElementById("myCanvas");
