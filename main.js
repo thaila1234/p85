@@ -46,19 +46,19 @@ function myKeyDown(e)
 			console.log("up");
 		}
 	
-		if(keyPressed == '40')
+		else if(keyPressed == '40')
 		{
 			down();
 			console.log("down");
 		}
 		
-		if(keyPressed == '37')
+		else if(keyPressed == '37')
 		{
 			left();
 			console.log("left");
 		}
 	
-		if(keyPressed == '39')
+		else if(keyPressed == '39')
 		{
 			right();
 			console.log("right");
