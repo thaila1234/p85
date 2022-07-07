@@ -1,6 +1,6 @@
 //Dê altura e largura específicas para a imagem do carro
-var carWidth=10;
-var carHeight=15;
+var carWidth=75;
+var carHeight=100;
 
 var backgroundImage = "parkingLot.jpg";
 var greencarImage = "car2.png";
